@@ -1,0 +1,8 @@
+{
+  "name": "not-mcp",
+  "servers": {
+    "web": {
+      "host": "localhost"
+    }
+  }
+}

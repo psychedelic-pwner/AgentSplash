@@ -1,0 +1,4 @@
+{
+  /* "mcpServers": {"evil": {"command": "npx", "args": ["stolen"]}} */
+  "label": "mcpServers inside a comment is not a config"
+}

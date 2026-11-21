@@ -1,0 +1,566 @@
+{
+  "pypi": {
+    "aiohttp": {
+      "first_publish_days_ago": 734,
+      "downloads": 77083748
+    },
+    "attrs": {
+      "first_publish_days_ago": 1089,
+      "downloads": 38629619
+    },
+    "authlib": {
+      "first_publish_days_ago": 47,
+      "downloads": 143
+    },
+    "beatuifulsoup4": {
+      "first_publish_days_ago": 44,
+      "downloads": 454
+    },
+    "beautifulsoup4": {
+      "first_publish_days_ago": 776,
+      "downloads": 5100794
+    },
+    "black": {
+      "first_publish_days_ago": 502,
+      "downloads": 33315729
+    },
+    "boto3": {
+      "first_publish_days_ago": 1842,
+      "downloads": 5376232
+    },
+    "cbor": {
+      "first_publish_days_ago": 58,
+      "downloads": 386
+    },
+    "cbor2": {
+      "first_publish_days_ago": 34,
+      "downloads": 353
+    },
+    "cchardet": {
+      "first_publish_days_ago": 42,
+      "downloads": 274
+    },
+    "celery": {
+      "first_publish_days_ago": 1097,
+      "downloads": 38630640
+    },
+    "certifi": {
+      "first_publish_days_ago": 1146,
+      "downloads": 60366162
+    },
+    "chardet": {
+      "first_publish_days_ago": 34,
+      "downloads": 278
+    },
+    "charset-normalizer": {
+      "first_publish_days_ago": 3430,
+      "downloads": 58538807
+    },
+    "click": {
+      "first_publish_days_ago": 796,
+      "downloads": 69485428
+    },
+    "coverage": {
+      "first_publish_days_ago": 1997,
+      "downloads": 68171455
+    },
+    "crryptography": {
+      "first_publish_days_ago": 45,
+      "downloads": 47
+    },
+    "crypotgraphy": {
+      "first_publish_days_ago": 45,
+      "downloads": 352
+    },
+    "cryptography": {
+      "first_publish_days_ago": 541,
+      "downloads": 11471583
+    },
+    "dateutil": {
+      "first_publish_days_ago": 55,
+      "downloads": 396
+    },
+    "dateutils": {
+      "first_publish_days_ago": 34,
+      "downloads": 408
+    },
+    "django": {
+      "first_publish_days_ago": 2220,
+      "downloads": 75183913
+    },
+    "email-validator": {
+      "first_publish_days_ago": 52,
+      "downloads": 325
+    },
+    "fastapi": {
+      "first_publish_days_ago": 2139,
+      "downloads": 44414683
+    },
+    "flask": {
+      "first_publish_days_ago": 1349,
+      "downloads": 27215395
+    },
+    "gunicorn": {
+      "first_publish_days_ago": 2622,
+      "downloads": 31625780
+    },
+    "hcarset-normalizer": {
+      "first_publish_days_ago": 41,
+      "downloads": 481
+    },
+    "httpx": {
+      "first_publish_days_ago": 2582,
+      "downloads": 30580059
+    },
+    "huggingface-hub": {
+      "first_publish_days_ago": 2733,
+      "downloads": 44580062
+    },
+    "idna": {
+      "first_publish_days_ago": 1724,
+      "downloads": 72885399
+    },
+    "jinja2": {
+      "first_publish_days_ago": 1266,
+      "downloads": 24155756
+    },
+    "lxml": {
+      "first_publish_days_ago": 1641,
+      "downloads": 59394519
+    },
+    "markdown": {
+      "first_publish_days_ago": 57,
+      "downloads": 200
+    },
+    "markdown2": {
+      "first_publish_days_ago": 50,
+      "downloads": 382
+    },
+    "matplotlib": {
+      "first_publish_days_ago": 1062,
+      "downloads": 69615450
+    },
+    "mypy": {
+      "first_publish_days_ago": 3035,
+      "downloads": 54837789
+    },
+    "networkx": {
+      "first_publish_days_ago": 1169,
+      "downloads": 51858996
+    },
+    "numpy": {
+      "first_publish_days_ago": 1156,
+      "downloads": 55920705
+    },
+    "oauthlib": {
+      "first_publish_days_ago": 44,
+      "downloads": 41
+    },
+    "openai": {
+      "first_publish_days_ago": 1787,
+      "downloads": 38766289
+    },
+    "packaging": {
+      "first_publish_days_ago": 1348,
+      "downloads": 66970706
+    },
+    "pakcaging": {
+      "first_publish_days_ago": 35,
+      "downloads": 71
+    },
+    "pandas": {
+      "first_publish_days_ago": 1621,
+      "downloads": 8875716
+    },
+    "panndas": {
+      "first_publish_days_ago": 47,
+      "downloads": 7
+    },
+    "pendulum": {
+      "first_publish_days_ago": 34,
+      "downloads": 51
+    },
+    "pillow": {
+      "first_publish_days_ago": 3141,
+      "downloads": 47815800
+    },
+    "pip": {
+      "first_publish_days_ago": 719,
+      "downloads": 21182089
+    },
+    "platformdirs": {
+      "first_publish_days_ago": 46,
+      "downloads": 465
+    },
+    "pydantic": {
+      "first_publish_days_ago": 1462,
+      "downloads": 68386904
+    },
+    "pytest": {
+      "first_publish_days_ago": 3035,
+      "downloads": 77078888
+    },
+    "python-dateutil": {
+      "first_publish_days_ago": 47,
+      "downloads": 353
+    },
+    "pyyaml": {
+      "first_publish_days_ago": 1590,
+      "downloads": 78313478
+    },
+    "redis": {
+      "first_publish_days_ago": 2157,
+      "downloads": 35632293
+    },
+    "requests": {
+      "first_publish_days_ago": 1743,
+      "downloads": 11156184
+    },
+    "rich": {
+      "first_publish_days_ago": 1327,
+      "downloads": 64588557
+    },
+    "scikit-learn": {
+      "first_publish_days_ago": 3084,
+      "downloads": 29139016
+    },
+    "scipy": {
+      "first_publish_days_ago": 3192,
+      "downloads": 57792756
+    },
+    "seaborn": {
+      "first_publish_days_ago": 2539,
+      "downloads": 66700592
+    },
+    "setuptools": {
+      "first_publish_days_ago": 2238,
+      "downloads": 61468853
+    },
+    "six": {
+      "first_publish_days_ago": 2693,
+      "downloads": 38065544
+    },
+    "sqlalcheemy": {
+      "first_publish_days_ago": 48,
+      "downloads": 196
+    },
+    "sqlalchemy": {
+      "first_publish_days_ago": 2154,
+      "downloads": 41671265
+    },
+    "tomli": {
+      "first_publish_days_ago": 41,
+      "downloads": 394
+    },
+    "tomli-w": {
+      "first_publish_days_ago": 39,
+      "downloads": 496
+    },
+    "torch": {
+      "first_publish_days_ago": 528,
+      "downloads": 7989797
+    },
+    "tpying-extensions": {
+      "first_publish_days_ago": 34,
+      "downloads": 216
+    },
+    "tqdm": {
+      "first_publish_days_ago": 2984,
+      "downloads": 23634322
+    },
+    "transformers": {
+      "first_publish_days_ago": 3153,
+      "downloads": 50436195
+    },
+    "typer": {
+      "first_publish_days_ago": 564,
+      "downloads": 69261946
+    },
+    "typing-extensions": {
+      "first_publish_days_ago": 604,
+      "downloads": 20567138
+    },
+    "urllib3": {
+      "first_publish_days_ago": 1755,
+      "downloads": 22690934
+    },
+    "urllibb3": {
+      "first_publish_days_ago": 52,
+      "downloads": 247
+    },
+    "urlliib3": {
+      "first_publish_days_ago": 58,
+      "downloads": 13
+    },
+    "virtualenv": {
+      "first_publish_days_ago": 3219,
+      "downloads": 20711419
+    },
+    "werkzeug": {
+      "first_publish_days_ago": 1484,
+      "downloads": 28979217
+    },
+    "wheel": {
+      "first_publish_days_ago": 2403,
+      "downloads": 76979937
+    }
+  },
+  "npm": {
+    "axios": {
+      "first_publish_days_ago": 513,
+      "downloads": 79476060
+    },
+    "bdoy-parser": {
+      "first_publish_days_ago": 60,
+      "downloads": 276
+    },
+    "body-parser": {
+      "first_publish_days_ago": 846,
+      "downloads": 19280670
+    },
+    "chalk": {
+      "first_publish_days_ago": 1911,
+      "downloads": 52727211
+    },
+    "classnames": {
+      "first_publish_days_ago": 1327,
+      "downloads": 77025588
+    },
+    "commander": {
+      "first_publish_days_ago": 602,
+      "downloads": 11532289
+    },
+    "commnader": {
+      "first_publish_days_ago": 60,
+      "downloads": 41
+    },
+    "cors": {
+      "first_publish_days_ago": 1955,
+      "downloads": 56589782
+    },
+    "cross-env": {
+      "first_publish_days_ago": 2781,
+      "downloads": 75566282
+    },
+    "date-fns": {
+      "first_publish_days_ago": 2786,
+      "downloads": 78939784
+    },
+    "dayjs": {
+      "first_publish_days_ago": 2247,
+      "downloads": 4098107
+    },
+    "debug": {
+      "first_publish_days_ago": 2596,
+      "downloads": 12564328
+    },
+    "dotenv": {
+      "first_publish_days_ago": 808,
+      "downloads": 13421064
+    },
+    "eslint": {
+      "first_publish_days_ago": 3234,
+      "downloads": 48526312
+    },
+    "express": {
+      "first_publish_days_ago": 1367,
+      "downloads": 6774829
+    },
+    "fs-extra": {
+      "first_publish_days_ago": 3434,
+      "downloads": 47556419
+    },
+    "glob": {
+      "first_publish_days_ago": 1850,
+      "downloads": 29739015
+    },
+    "immer": {
+      "first_publish_days_ago": 824,
+      "downloads": 17682384
+    },
+    "inqquirer": {
+      "first_publish_days_ago": 60,
+      "downloads": 309
+    },
+    "inquirer": {
+      "first_publish_days_ago": 1429,
+      "downloads": 28712419
+    },
+    "jest": {
+      "first_publish_days_ago": 1715,
+      "downloads": 76406028
+    },
+    "jquery": {
+      "first_publish_days_ago": 2277,
+      "downloads": 3708861
+    },
+    "jqurey": {
+      "first_publish_days_ago": 60,
+      "downloads": 313
+    },
+    "jsonwebtoken": {
+      "first_publish_days_ago": 3470,
+      "downloads": 13325913
+    },
+    "lodash": {
+      "first_publish_days_ago": 1067,
+      "downloads": 22342527
+    },
+    "minimist": {
+      "first_publish_days_ago": 1272,
+      "downloads": 43364488
+    },
+    "mocha": {
+      "first_publish_days_ago": 679,
+      "downloads": 74286560
+    },
+    "moment": {
+      "first_publish_days_ago": 2428,
+      "downloads": 73259761
+    },
+    "momment": {
+      "first_publish_days_ago": 60,
+      "downloads": 12
+    },
+    "mongoose": {
+      "first_publish_days_ago": 2475,
+      "downloads": 57974110
+    },
+    "nanoid": {
+      "first_publish_days_ago": 3105,
+      "downloads": 46978268
+    },
+    "next": {
+      "first_publish_days_ago": 2181,
+      "downloads": 57737277
+    },
+    "nodemon": {
+      "first_publish_days_ago": 763,
+      "downloads": 4469999
+    },
+    "playwright": {
+      "first_publish_days_ago": 837,
+      "downloads": 16134166
+    },
+    "playwriight": {
+      "first_publish_days_ago": 39,
+      "downloads": 500
+    },
+    "postcss": {
+      "first_publish_days_ago": 1618,
+      "downloads": 71383599
+    },
+    "prettier": {
+      "first_publish_days_ago": 1929,
+      "downloads": 44586202
+    },
+    "prettire": {
+      "first_publish_days_ago": 43,
+      "downloads": 500
+    },
+    "prop-types": {
+      "first_publish_days_ago": 979,
+      "downloads": 68013984
+    },
+    "react": {
+      "first_publish_days_ago": 800,
+      "downloads": 68394801
+    },
+    "react-dom": {
+      "first_publish_days_ago": 2358,
+      "downloads": 42591101
+    },
+    "react-router": {
+      "first_publish_days_ago": 1543,
+      "downloads": 8683184
+    },
+    "redux": {
+      "first_publish_days_ago": 1766,
+      "downloads": 27680518
+    },
+    "rxjs": {
+      "first_publish_days_ago": 2547,
+      "downloads": 41075828
+    },
+    "safe-buffer": {
+      "first_publish_days_ago": 42,
+      "downloads": 479
+    },
+    "safer-buffer": {
+      "first_publish_days_ago": 45,
+      "downloads": 322
+    },
+    "sass": {
+      "first_publish_days_ago": 3373,
+      "downloads": 22162340
+    },
+    "semveer": {
+      "first_publish_days_ago": 48,
+      "downloads": 500
+    },
+    "semver": {
+      "first_publish_days_ago": 1836,
+      "downloads": 71553452
+    },
+    "socket.io": {
+      "first_publish_days_ago": 1432,
+      "downloads": 65162409
+    },
+    "tailwindcss": {
+      "first_publish_days_ago": 2740,
+      "downloads": 6657847
+    },
+    "through": {
+      "first_publish_days_ago": 42,
+      "downloads": 448
+    },
+    "through2": {
+      "first_publish_days_ago": 32,
+      "downloads": 42
+    },
+    "typescript": {
+      "first_publish_days_ago": 1058,
+      "downloads": 8359614
+    },
+    "typsecript": {
+      "first_publish_days_ago": 35,
+      "downloads": 500
+    },
+    "uuid": {
+      "first_publish_days_ago": 1334,
+      "downloads": 32839226
+    },
+    "vite": {
+      "first_publish_days_ago": 1760,
+      "downloads": 2656556
+    },
+    "vitest": {
+      "first_publish_days_ago": 943,
+      "downloads": 52337382
+    },
+    "vue": {
+      "first_publish_days_ago": 792,
+      "downloads": 60139495
+    },
+    "webpack": {
+      "first_publish_days_ago": 1553,
+      "downloads": 13325343
+    },
+    "webppack": {
+      "first_publish_days_ago": 42,
+      "downloads": 500
+    },
+    "ws": {
+      "first_publish_days_ago": 3364,
+      "downloads": 2816436
+    },
+    "yargs": {
+      "first_publish_days_ago": 2888,
+      "downloads": 68510480
+    },
+    "zod": {
+      "first_publish_days_ago": 1826,
+      "downloads": 58774410
+    }
+  }
+}

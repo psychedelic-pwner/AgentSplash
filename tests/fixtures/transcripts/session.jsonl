@@ -1,0 +1,9 @@
+{"role": "user", "content": "pip install useronly"}
+{"type": "assistant", "message": {"role": "assistant", "content": [{"type": "text", "text": "Run pip install evilpkg then uv add httpx."}]}}
+{"role": "assistant", "content": "import goodlib\nfrom pathlib import Path\nrequire('leftpad')\nrequire(\"debug\")"}
+this is not json
+{"type": "assistant"
+[]
+{"type": "assistant", "message": {"role": "assistant", "content": "npm i express"}}
+{"message": {"role": "user", "content": "pip install nopeuser"}}
+{"type": "assistant", "message": {"role": "assistant", "content": [{"type": "tool_use", "name": "Bash", "input": {}}, {"type": "text", "text": "pip install blockpkg"}]}}

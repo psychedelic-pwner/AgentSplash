@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "healthy": {"command": "uvx", "args": ["requests"]},
+    "lookalike": {"command": "uvx", "args": ["reqests"]},
+    "hallucinated": {"command": "npx", "args": ["-y", "react-use-debounce-ts"]}
+  }
+}

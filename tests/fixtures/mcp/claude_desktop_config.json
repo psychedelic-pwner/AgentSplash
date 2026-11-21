@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "docs": {
+      "command": "python",
+      "args": ["-m", "mcp_server_docs", "--port", "0"],
+      "env": {
+        "DOCS_ROOT": "/tmp/docs"
+      }
+    }
+  }
+}

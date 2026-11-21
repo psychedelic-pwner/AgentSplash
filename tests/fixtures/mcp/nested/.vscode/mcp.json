@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "vscode-node": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["./server.js"]
+    }
+  }
+}

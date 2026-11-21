@@ -1,0 +1,15 @@
+{
+  // line comment before the server map
+  "mcpServers": {
+    /* block comment
+       that mentions "command": "npx" but is not config */
+    "notes": {
+      "command": "pipx", // trailing line comment
+      "args": ["run", "mcp-notes"],
+      "env": {
+        "ENDPOINT": "http://example.com//keep",
+        "BANNER": "/* keep */ // keep"
+      },
+    },
+  },
+}

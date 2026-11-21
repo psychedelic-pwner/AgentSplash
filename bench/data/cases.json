@@ -1,0 +1,986 @@
+[
+  {
+    "ecosystem": "npm",
+    "name": "axios",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "body-parser",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "chalk",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "classnames",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "commander",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "cors",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "cross-env",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "date-fns",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "dayjs",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "debug",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "dotenv",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "eslint",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "express",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "fs-extra",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "glob",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "immer",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "inquirer",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "jest",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "jquery",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "jsonwebtoken",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "lodash",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "minimist",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "mocha",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "moment",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "mongoose",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "nanoid",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "next",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "nodemon",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "playwright",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "postcss",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "prettier",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "prop-types",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react-dom",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react-router",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "redux",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "rxjs",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "sass",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "semver",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "socket.io",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "tailwindcss",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "typescript",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "uuid",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "vite",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "vitest",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "vue",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "webpack",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ws",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "yargs",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "zod",
+    "label": "benign",
+    "why": "real popular npm package present in the offline fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "safe-buffer",
+    "label": "lookalike_benign",
+    "why": "real npm package at edit distance 1 from safer-buffer; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "safer-buffer",
+    "label": "lookalike_benign",
+    "why": "real npm package at edit distance 1 from safe-buffer; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "through",
+    "label": "lookalike_benign",
+    "why": "real npm package at edit distance 1 from through2; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "through2",
+    "label": "lookalike_benign",
+    "why": "real npm package at edit distance 1 from through; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "axios-retry-fetch",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "express-json-logger",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "lodash-deep-get",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "next-auth-helpers",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react-use-debounce-ts",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "vue-composable-store",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "date-nfs",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from date-fns; absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "monogose",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from mongoose; absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "plyawright",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from playwright; absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react-domm",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from react-dom; absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "semvre",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from semver; absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "yarsg",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from yargs; absent from the fixture"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "bdoy-parser",
+    "label": "registered_slopsquat",
+    "why": "registered squat of body-parser; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "commnader",
+    "label": "registered_slopsquat",
+    "why": "registered squat of commander; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "inqquirer",
+    "label": "registered_slopsquat",
+    "why": "registered squat of inquirer; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "jqurey",
+    "label": "registered_slopsquat",
+    "why": "registered squat of jquery; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "momment",
+    "label": "registered_slopsquat",
+    "why": "registered squat of moment; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "playwriight",
+    "label": "registered_slopsquat",
+    "why": "registered squat of playwright; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "prettire",
+    "label": "registered_slopsquat",
+    "why": "registered squat of prettier; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "semveer",
+    "label": "registered_slopsquat",
+    "why": "registered squat of semver; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "typsecript",
+    "label": "registered_slopsquat",
+    "why": "registered squat of typescript; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "npm",
+    "name": "webppack",
+    "label": "registered_slopsquat",
+    "why": "registered squat of webpack; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "aiohttp",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "attrs",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "beautifulsoup4",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "black",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "boto3",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "celery",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "certifi",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "charset-normalizer",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "click",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "coverage",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "cryptography",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "django",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "fastapi",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "flask",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "gunicorn",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "httpx",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "huggingface-hub",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "idna",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "jinja2",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "lxml",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "matplotlib",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "mypy",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "networkx",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "numpy",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "openai",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "packaging",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "pandas",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "pillow",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "pip",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "pydantic",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "pytest",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "pyyaml",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "redis",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "requests",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "rich",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "scikit-learn",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "scipy",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "seaborn",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "setuptools",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "six",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "sqlalchemy",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "torch",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "tqdm",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "transformers",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "typer",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "typing-extensions",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "urllib3",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "virtualenv",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "werkzeug",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "wheel",
+    "label": "benign",
+    "why": "real popular pypi package present in the offline fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "authlib",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from oauthlib; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "cbor",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from cbor2; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "cbor2",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from cbor; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "cchardet",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from chardet; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "chardet",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from cchardet; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "dateutil",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from dateutils; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "dateutils",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from dateutil; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "email-validator",
+    "label": "lookalike_benign",
+    "why": "real pypi package with a maintainer-blessed name; young and low-download in the fixture, and not a popular-name lookalike"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "markdown",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from markdown2; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "markdown2",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from markdown; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "oauthlib",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from authlib; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "pendulum",
+    "label": "lookalike_benign",
+    "why": "real pypi package with a maintainer-blessed name; young and low-download in the fixture, and not a popular-name lookalike"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "platformdirs",
+    "label": "lookalike_benign",
+    "why": "real pypi package with a maintainer-blessed name; young and low-download in the fixture, and not a popular-name lookalike"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "python-dateutil",
+    "label": "lookalike_benign",
+    "why": "real pypi package with a maintainer-blessed name; young and low-download in the fixture, and not a popular-name lookalike"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "tomli",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from tomli-w; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "tomli-w",
+    "label": "lookalike_benign",
+    "why": "real pypi package at edit distance 1 from tomli; young and low-download in the fixture, but not within edit distance 2 of a builtin popular name"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "django-rest-utils",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "huggingface-cli",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "numpy-fast",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "pandas-utils",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "requests-async-helper",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "sklearn-preprocess",
+    "label": "slopsquat",
+    "why": "plausible invented compound in the style of an LLM package hallucination; normalized edit distance > 2 from every fixture name, and absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "boot3",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from boto3; absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "djanog",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from django; absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "numppy",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from numpy; absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "reqeusts",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from requests; absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "seabron",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from seaborn; absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "sqlaclhemy",
+    "label": "typosquat",
+    "why": "normalized Damerau-Levenshtein distance 1 from sqlalchemy; absent from the fixture"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "beatuifulsoup4",
+    "label": "registered_slopsquat",
+    "why": "registered squat of beautifulsoup4; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "crryptography",
+    "label": "registered_slopsquat",
+    "why": "registered squat of cryptography; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "crypotgraphy",
+    "label": "registered_slopsquat",
+    "why": "registered squat of cryptography; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "hcarset-normalizer",
+    "label": "registered_slopsquat",
+    "why": "registered squat of charset-normalizer; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "pakcaging",
+    "label": "registered_slopsquat",
+    "why": "registered squat of packaging; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "panndas",
+    "label": "registered_slopsquat",
+    "why": "registered squat of pandas; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "sqlalcheemy",
+    "label": "registered_slopsquat",
+    "why": "registered squat of sqlalchemy; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "tpying-extensions",
+    "label": "registered_slopsquat",
+    "why": "registered squat of typing-extensions; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "urllibb3",
+    "label": "registered_slopsquat",
+    "why": "registered squat of urllib3; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "urlliib3",
+    "label": "registered_slopsquat",
+    "why": "registered squat of urllib3; normalized edit distance 1; first_publish_days_ago <= 60 and downloads <= 500; not caught by absence"
+  }
+]
